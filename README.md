@@ -1,0 +1,1 @@
+El presente proyecto tiene como objetivo analizar los datos de los clientes de la cadena de gimnasios Model Fitness, con el propósito de identificar target groups y desarrollar propuestas de marketing estratégicas basadas en los resultados obtenidos.
